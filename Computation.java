@@ -62,6 +62,9 @@ public class Computation {
             if(value_border_a==value_border_b){
                 System.out.println("Pass");
             }
+            else{
+                System.out.println("not Pass");
+            }
         }
     }
 }
